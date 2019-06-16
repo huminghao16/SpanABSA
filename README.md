@@ -6,7 +6,7 @@ This repo contains the code and data of the following paper:
 
 In this paper, we propose a span-based extract-then-classify framework for the open-domain targeted sentiment analysis task, which is shown as below:
 <p>
-<img src="image/framework.png" width="800">
+<img src="image/framework.PNG" width="800">
 </p>
 
 This framework consists of two components:
