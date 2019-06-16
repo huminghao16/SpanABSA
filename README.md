@@ -118,3 +118,16 @@ This will produce a result like this:
 ```bash
 threshold: 8.0, step: 234, P: 0.7192, R: 0.6514, F1: 0.6836 (common: 1491.0, retrieved: 2073.0, relevant: 2289.0)
 ```
+
+## Acknowledgements
+We sincerely thank Xin Li for releasing the [datasets](https://github.com/lixin4ever/E2E-TBSA).
+
+If you find the paper or this repository helpful in your work, please use the following citation:
+```
+@inproceedings{hu2019open,
+  title={Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification},
+  author={Hu, Minghao and Peng, Yuxing and Huang, Zhen and Li, Dongsheng and Lv, Yiwei},
+  booktitle={ACL},
+  year={2019}
+}
+```
