@@ -2,7 +2,7 @@
 
 This repo contains the code and data of the following paper:
 
-<i> "Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification". Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li, Yiwei Lv. ACL 2019.</i>
+<i> [Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification](https://arxiv.org/abs/1906.03820). Minghao Hu, Yuxing Peng, Zhen Huang, Dongsheng Li, Yiwei Lv. ACL 2019.</i>
 
 In this paper, we propose a span-based extract-then-classify framework for the open-domain targeted sentiment analysis task, which is shown as below:
 <p>
