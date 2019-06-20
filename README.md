@@ -127,7 +127,7 @@ If you find the paper or this repository helpful in your work, please use the fo
 @inproceedings{hu2019open,
   title={Open-Domain Targeted Sentiment Analysis via Span-Based Extraction and Classification},
   author={Hu, Minghao and Peng, Yuxing and Huang, Zhen and Li, Dongsheng and Lv, Yiwei},
-  booktitle={ACL},
+  booktitle={Proceedings of ACL},
   year={2019}
 }
 ```
